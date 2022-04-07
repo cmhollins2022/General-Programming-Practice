@@ -12,3 +12,30 @@ def greet(name: str):
 
 if __name__ == '__main__':
     greet('PyCharm')
+
+
+# Let's now try some object oriented programming again... in an attempt to get back into the
+# basic concepts, and into the swing of things.
+
+class User:
+    """Properties"""
+    # Class variables
+    name: str = None
+    age: int = None
+    bio: str = None
+
+    def __init__(self, name: str, age: int, bio: str):
+        # Let's define some class attributes that will help us to
+        # get to know our user a bit better.
+        self.name = name
+        self.age = age
+        self.bio = bio
+
+        def get_name(name_prompt):
+
+        def get_age(age_prompt):
+
+        def get_bio(bio_prompt):
+
+
+new_user = User("User_1", 0, "Not currently known")
