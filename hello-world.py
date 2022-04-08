@@ -32,10 +32,11 @@ class User:
         self.bio = bio
 
         def get_name(name_prompt):
-
+            # Prints out cooresponding prompt...
         def get_age(age_prompt):
-
+            # Prints out cooresponding prompt...
         def get_bio(bio_prompt):
+            # Prints out cooresponding prompt...
 
 
 new_user = User("User_1", 0, "Not currently known")
