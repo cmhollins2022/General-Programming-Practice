@@ -4,14 +4,14 @@
 
 # To begin, create a function that takes in two arguments, "self, name"
 
-def greet(name: str):
-    # Ask the user for their name...
-    name_answer: str = input(f"Hello, World!, What is your name, user {name}? ")
-    print(f"Hello {name_answer}, it's so nice to meet you!")  # Print out a greeting message
-
-
-if __name__ == '__main__':
-    greet('PyCharm')
+# def greet(name: str):
+#     # Ask the user for their name...
+#     name_answer: str = input(f"Hello, World!, What is your name, user {name}? ")
+#     print(f"Hello {name_answer}, it's so nice to meet you!")  # Print out a greeting message
+#
+#
+# if __name__ == '__main__':
+#     greet('PyCharm')
 
 
 # Let's now try some object oriented programming again... in an attempt to get back into the
@@ -31,15 +31,13 @@ class User:
         self.age = age
         self.bio = bio
 
-        def get_name(name):
-            # Prints out cooresponding prompt...
-            print(f"Hello {name}, nice to meet you!")
-        def get_age(age):
-            # Prints out cooresponding prompt...
-            print(f"I see you are {age} years old")
-        def get_bio(bio): 
-            # Prints out cooresponding prompt...
-            print(f"{bio}")
+        print(f"Hello {name}, nice to meet you!")
+        print(f"I see you are {age} years old")
+        print(f"Here is your Bio: {bio}")
 
 
-new_user = User("User_1", 0, "Not currently known")
+answer_1 = input("What is your name, new user?")
+answer_2: int = int(input("How old are you?"))
+answer_3 = input("Please tell me a bit about yourself...")
+
+User(answer_1, int(answer_2), answer_3)
