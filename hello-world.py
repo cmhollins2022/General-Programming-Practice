@@ -31,7 +31,7 @@ class User:
         self.age = age
         self.bio = bio
 
-        def get_name(name_prompt):
+        def get_name(name):
             # Prints out cooresponding prompt...
         def get_age(age_prompt):
             # Prints out cooresponding prompt...
