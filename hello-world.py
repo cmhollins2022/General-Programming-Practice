@@ -33,10 +33,13 @@ class User:
 
         def get_name(name):
             # Prints out cooresponding prompt...
-        def get_age(age_prompt):
+            print(f"Hello {name}, nice to meet you!")
+        def get_age(age):
             # Prints out cooresponding prompt...
-        def get_bio(bio_prompt):
+            print(f"I see you are {age} years old")
+        def get_bio(bio): 
             # Prints out cooresponding prompt...
+            print(f"{bio}")
 
 
 new_user = User("User_1", 0, "Not currently known")
