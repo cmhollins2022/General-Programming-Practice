@@ -36,8 +36,8 @@ class User:
         print(f"Here is your Bio: {bio}")
 
 
-answer_1 = input("What is your name, new user?")
+answer_1: str = input("What is your name, new user?")
 answer_2: int = int(input("How old are you?"))
-answer_3 = input("Please tell me a bit about yourself...")
+answer_3: str = input("Please tell me a bit about yourself...")
 
 User(answer_1, int(answer_2), answer_3)
