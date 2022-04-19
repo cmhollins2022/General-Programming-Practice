@@ -21,10 +21,10 @@ class User:
     """Properties"""
     # Class variables
     name: str = None
-    age: int = None
+    age: int = 0
     bio: str = None
 
-    def __init__(self, name: str, age: int, bio: str):
+    def __init__(self, name, age, bio):
         # Let's define some class attributes that will help us to
         # get to know our user a bit better.
         self.name = name
@@ -36,8 +36,21 @@ class User:
         print(f"Here is your Bio: {bio}")
 
 
-answer_1: str = input("What is your name, new user?")
+answer_1 = input("What is your name, new user?")
 answer_2: int = int(input("How old are you?"))
-answer_3: str = input("Please tell me a bit about yourself...")
+answer_3 = input("Please tell me a bit about yourself...")
 
 User(answer_1, int(answer_2), answer_3)
+
+
+class Stats:
+    """Properties"""
+    # Class variables
+    food: str = None
+    coins: int = 0
+    exp: int = 0
+
+    def __int__(self, food, coins, exp):
+        self.food = food
+        self.coins = coins
+        self.exp = exp
