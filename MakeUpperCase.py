@@ -1,10 +1,7 @@
 def make_upper_case(s: str):
-    s = s.split()
-    for item in s:
-        if item.lower():
-            item.upper()
-            
-    return print(s)
+    def make_upper_case(s: str):
+    return print(s.upper())  # Make uppercase
+
 
 
 make_upper_case('stop')
