@@ -10,3 +10,4 @@ def make_upper_case(s: str):
     return print(s.upper())  # Make uppercase
 
 make_upper_case('stop')
+make_upper_case(5) # Should return alternate prompt
