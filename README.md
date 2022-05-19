@@ -1,2 +1,2 @@
-# General-Programming-Practic
-A place to  document practice general programming problems.
+# General-Programming-Practice
+A place to document practice general programming problems.
