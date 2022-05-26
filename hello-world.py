@@ -54,3 +54,18 @@ class Stats:
         self.food = food
         self.coins = coins
         self.exp = exp
+        
+def series_sum(n: int):
+    series: float = 1 / 4
+    if n == 1:
+        return print(1)
+    elif n == 2:
+        return print(1 + series)
+    elif n > 1:
+        series = 1 / (4 + 1 * series)
+        return print(1 + series)
+
+
+series_sum(1)
+series_sum(2)
+series_sum(5)
