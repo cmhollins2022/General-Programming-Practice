@@ -55,7 +55,7 @@ class Stats:
         self.coins = coins
         self.exp = exp
         
-# Current practice and problems being
+# Current practice and problems being worked
 def series_sum(n: int):
     series: float = 1 / 4
     if n == 1:
