@@ -49,6 +49,7 @@ class Stats:
     food: str = None
     coins: int = 0
     exp: int = 0
+    class: str = "Shepherd"
 
     def __int__(self, food, coins, exp):
         self.food = food
