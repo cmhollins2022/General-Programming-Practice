@@ -3,7 +3,8 @@
 # a functioning testing environment. Perhaps begin including Object Oriented Programming as well?
 # ugh
 # To begin, create a function that takes in two arguments, "self, name"
-# hello, keep it up hello
+# hello, keep it up.
+# Ok, rise up.
 # def greet(name: str):
 #     # Ask the user for their name...
 #     name_answer: str = input(f"Hello, World!, What is your name, user {name}? ")
