@@ -5,6 +5,7 @@
 # To begin, create a function that takes in two arguments, "self, name"
 # hello, keep it up.
 # Ok, rise up.
+# What's up, programmer.
 # Hey, Ho... Let's go! Generally speaking.
 # def greet(name: str):
 #     # Ask the user for their name...
