@@ -7,7 +7,7 @@
 # Ok, rise up.
 # What's up, programmer. Hello world.
 # Hey, Ho... Let's go! Generally speaking.
-# Lets go!
+# Lets go! How do you eat an elephant?
 # def greet(name: str):
 #     # Ask the user for their name...
 #     name_answer: str = input(f"Hello, World!, What is your name, user {name}? ")
