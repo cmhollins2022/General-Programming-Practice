@@ -3,7 +3,7 @@
 # a functioning testing environment. Perhaps begin including Object Oriented Programming as well?
 # ugh
 # To begin, create a function that takes in two arguments, "self, name"
-# hello, keep it up.
+# Goodness my dear sir, please, keep up the good work. Cheeri'o.
 # Ok, rise up.
 # What's up, programmer. Hello world.
 # Hey, Ho... Let's go! Generally speaking.
