@@ -4,7 +4,7 @@
 # ugh
 # To begin, create a function that takes in two arguments, "self, name"
 # Goodness my dear sir, please, keep up the good work. Cheeri'o.
-# Ok, rise up.
+# Ok, rise up. Like really... rise up. :|
 # What's up, programmer. Hello world.
 # Hey, Ho... Let's go! Generally speaking.
 # Lets go! Also, how do you eat an elephant? One bite at a time.
