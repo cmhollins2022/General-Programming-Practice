@@ -6,6 +6,7 @@
 # Goodness my dear sir, please, keep up the good work. Cheeri'o.
 # Ok, rise up. Like really... rise up. :|
 # What's up, programmer. Hello world.
+# Don't give up Max!
 # Hey, Ho... Let's go! Generally speaking.
 # Lets go! Also, how do you eat an elephant? One bite at a time.
 # def greet(name: str):
