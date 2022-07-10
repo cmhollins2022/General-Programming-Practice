@@ -3,18 +3,10 @@
 # a functioning testing environment. Perhaps begin including Object Oriented Programming as well?
 # ugh
 # To begin, create a function that takes in two arguments, "self, name"
-# Goodness my dear sir, please, keep up the good work. Cheeri'o.
-# Ok, rise up. Like really... rise up. :|
-# What's up, programmer. Hello world.
-# Don't give up Max!
-# Hey, Ho... Let's go! Generally speaking.
-# Lets go! Also, how do you eat an elephant? One bite at a time.
 # def greet(name: str):
 #     # Ask the user for their name...
 #     name_answer: str = input(f"Hello, World!, What is your name, user {name}? ")
 #     print(f"Hello {name_answer}, it's so nice to meet you!")  # Print out a greeting message
-# Respect.
-# Go go goooo... gooo... ooohhhh... oh yes!
 #
 # if __name__ == '__main__':
 #     greet('PyCharm')
