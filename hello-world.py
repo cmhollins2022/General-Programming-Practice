@@ -14,6 +14,7 @@
 
 # Let's now try some object oriented programming again... in an attempt to get back into the
 # basic concepts, and into the swing of things.
+# General update
 
 class User:
     """Properties"""
