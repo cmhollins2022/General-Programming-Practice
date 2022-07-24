@@ -10,7 +10,7 @@
 #
 # if __name__ == '__main__':
 #     greet('PyCharm')
-
+# Go for it. You got this.
 
 # Let's now try some object oriented programming again... in an attempt to get back into the
 # basic concepts, and into the swing of things.
