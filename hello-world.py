@@ -39,6 +39,7 @@ answer_1 = input("What is your name, new user?")
 answer_2: int = int(input("How old are you?"))
 answer_3 = input("Please tell me a bit about yourself...")
 
+# In general...
 User(answer_1, int(answer_2), answer_3)
 
 
