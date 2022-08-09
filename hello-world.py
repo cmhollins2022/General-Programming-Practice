@@ -72,5 +72,4 @@ series_sum(1)
 series_sum(2)
 series_sum(5)
 
-# general
-# Keep going
+# Oof
