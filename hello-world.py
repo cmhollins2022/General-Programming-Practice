@@ -2,7 +2,7 @@
 # Goals: If possible, continue to create programs primarily with Pseudo-Code first, and then enhance them by creating
 # a functioning testing environment. Perhaps begin including Object Oriented Programming as well?
 # Keep going... keep going
-# Get back in there, sir knight!
+# Go get em' tiger!
 # To begin, create a function that takes in two arguments, "self, name"
 # def greet(name: str):
 #     # Ask the user for their name...
