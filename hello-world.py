@@ -83,6 +83,7 @@ class Person:
 x = Person("John", "Doe")
 x.printname()
 
+# Object Oriented/Classes
 class Person:
   def __init__(self, name, age):
     self.name = name
