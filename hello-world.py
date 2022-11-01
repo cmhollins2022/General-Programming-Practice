@@ -11,7 +11,7 @@
 #     greet('PyCharm')
 
 # Let's now try some object oriented programming again... in an attempt to get back into the
-# basic concepts, and getting into the swing of things. And also, keep going!
+# Spooky!
 
 class User:
     """Properties"""
