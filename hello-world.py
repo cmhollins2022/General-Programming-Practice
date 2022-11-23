@@ -10,8 +10,8 @@
 # if __name__ == '__main__':
 #     greet('PyCharm')
 
-# Let's now try some object oriented programming again...
-# Never give up.
+# Let's now try some object oriented programming, again...
+# Never give up...
 
 class User:
     """Properties"""
